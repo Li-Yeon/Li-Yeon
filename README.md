@@ -8,7 +8,7 @@ I really enjoy learning languages and app development like Flutter and React Nat
 #### Skills and Experience
 * App Development 📱
 * Game Development 🎮
-* 
+
 #### I'm ...
 - 🔭 I’m currently working on improving my Flutter and back-end works. 
 - 🌱 I’m currently learning more about App Development and REST API's 
