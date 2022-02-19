@@ -1,9 +1,8 @@
 ### Hi there 👋, Welcome to my profile.
-#### My name is Leon.
-![My name is Leon.](https://i.ibb.co/nwZGBdV/li-yeon-1280-320-px.png)
+(https://i.ibb.co/nwZGBdV/li-yeon-1280-320-px.png)
 
 #### About Me
-I really enjoy learning languages and app development like Flutter and React Native. Helping or creating something that's alive makes me feel proud of myself and makes me thrive for more. I also love to share my works and projects to the world.
+My name is Li-Yeon (Leon). I really enjoy learning languages and app development like Flutter and React Native. Helping or creating something that's alive makes me feel proud of myself and makes me thrive for more. I also love to share my works and projects to the world.
 
 #### Skills and Experience
 * App Development 📱
