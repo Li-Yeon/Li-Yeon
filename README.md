@@ -14,7 +14,7 @@ I really enjoy learning languages and app development like Flutter and React Nat
 - 🌱 I’m currently learning more about App Development and REST API's 
 - 👯 I’m looking to collaborate on making awesome and innovative mobile apps! 
 - 🤔 I’m looking for help with expanding my knowledge and experience. 
-- 📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mekaleafen). 
+- 📫 How to reach me: Facebook (Leon Wilsen Leong), WhatsApp(+60 10-2151169), Discord (Li-Yeon#8544). 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Li-Yeon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mekaleafen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/leyeon_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCNUNhhh5tqYPM4URynDJm6w)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/mekaleon)  
