@@ -2,7 +2,12 @@
 #### My name is Leon.
 ![My name is Leon.](https://i.ibb.co/nwZGBdV/li-yeon-1280-320-px.png)
 
+#### About Me
 I really enjoy learning languages and app development like Flutter and React Native. Helping or creating something that's alive makes me feel proud of myself and makes me thrive for more. I also love to share my works and projects to the world.
+
+#### Skills and Experience
+* App Development 📱
+* Game Development 🎮
 
 - 🔭 I’m currently working on improving my Flutter and back-end works. 
 - 🌱 I’m currently learning more about App Development and REST API's 
