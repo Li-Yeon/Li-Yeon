@@ -7,7 +7,7 @@ I really enjoy learning languages and app development like Flutter and React Nat
 - 🔭 I’m currently working on improving my Flutter and back-end works. 
 - 🌱 I’m currently learning more about App Development and REST API's 
 - 👯 I’m looking to collaborate on making awesome and innovative mobile apps! 
-- 🤔 I’m looking for help with more experiences and knowledge. 
+- 🤔 I’m looking for help with expanding my knowledge and experience. 
 - 📫 How to reach me: Facebook, WhatsApp and Discord. 
 
 
