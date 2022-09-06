@@ -2,16 +2,16 @@
 ![My name is Leon.](https://i.ibb.co/nwZGBdV/li-yeon-1280-320-px.png)
 
 #### About Me
-My name is Li-Yeon (Leon). I really enjoy learning languages and app development like Flutter and React Native. Helping or creating something that's alive makes me feel proud of myself and makes me thrive for more. I also love to share my works and projects to the world.
+My name is Li-Yeon (Leon). I really enjoy programming and I specialize in Web Development with [React, NextJS, NodeJS, ExpressJS and Firebase]. Helping or creating something that's alive makes me feel proud of myself and makes me thrive for more. I also love to share my works and projects to the world.
 
 #### Skills and Experience
-* App Development 📱
+* Web & App Development 📱
 * Game Development 🎮
 
 #### I'm ...
-- 🔭 I’m currently working on improving my Flutter and back-end works. 
-- 🌱 I’m currently learning more about App Development and REST API's 
-- 👯 I’m looking to collaborate on making awesome and innovative mobile apps! 
+- 🔭 I’m currently working in Gamelobb as a fullstack Web3 Developer. 
+- 🌱 I’m currently learning more about Web Development. 
+- 👯 I’m looking to collaborate on making awesome and innovative web apps! 
 - 🤔 I’m looking for help with expanding my knowledge and experience. 
 - 📫 How to reach me: Facebook (Leon Wilsen Leong), WhatsApp(+60 10-2151169), Discord (Li-Yeon#8544). 
 
