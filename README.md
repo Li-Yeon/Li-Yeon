@@ -2,7 +2,7 @@
 ![My name is Leon.](https://i.ibb.co/nwZGBdV/li-yeon-1280-320-px.png)
 
 #### About Me
-My name is Li-Yeon (Leon). I really enjoy programming and I specialize in Web Development with [React, NextJS, NodeJS, ExpressJS and Firebase]. Helping or creating something that's alive makes me feel proud of myself and makes me thrive for more. I also love to share my works and projects to the world.
+My name is Li-Yeon (Leon). I really enjoy programming and I'm currently pursuing in Web Development using [React, NextJS, NodeJS]. Helping or creating something that's alive makes me feel proud of myself and makes me thrive for more. I also love to share my works and projects to the world.
 
 #### Skills and Experience
 * Web & App Development 📱
