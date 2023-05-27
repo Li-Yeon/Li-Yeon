@@ -1,5 +1,4 @@
 ### Hi there 👋, Welcome to my profile.
-![My name is Leon.]
 
 #### About Me
 My name is Li-Yeon (Leon). I enjoy programming and I'm currently pursuing my career in Web Development using [React, NextJS, NodeJS]. Helping or creating something that's alive makes me feel proud of myself and makes me thrive for more. I also love to share my works and projects to the world.
